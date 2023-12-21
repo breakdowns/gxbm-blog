@@ -53,7 +53,7 @@ comments: false
 - Mirror & Leech
 - Rclone (Tidak aktif secara default)
 - Telegram Premium, 4GB leech (Jika tersedia)
-- Mendukung debrid-link.com (Untuk situs web yang didukung
+- Mendukung debrid-link.com
 - Kustom Thumbnail & Kustom Watermark pada file
 - Fitur Bypass
 - Fitur pencarian Anime, Movie, Torrent
