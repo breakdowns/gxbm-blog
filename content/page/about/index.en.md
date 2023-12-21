@@ -54,7 +54,7 @@ comments: false
 - Mirror & Leech
 - Rclone (Not enabled by default)
 - Telegram Premium, 4GB leech(If available)
-- AllDebrid supported (For supported websites, please check [Here](https://alldebrid.com/hosts))
+- debrid-link.com supported
 - Custom Thumbnail & Custom Watermark on file
 - Bypass Feature
 - Search Anime, Movie, Torrent feature
