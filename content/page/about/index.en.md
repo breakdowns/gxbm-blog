@@ -41,8 +41,8 @@ comments: false
 
 **📝 NOTE:**
 - Private Bot PM Not available if you're not Join the Main Plan (Join VIP Group)
+- The Expired Plan (Include Bot PM) date follows when You Join/Renew
 - VIP doesn't mean there are no limits!
-- The Expired plan date follows when You Join/Renew
 
 **💳 Payment:**
 - [QRIS](qris.png)
