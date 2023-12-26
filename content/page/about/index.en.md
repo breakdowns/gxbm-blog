@@ -41,7 +41,7 @@ comments: false
 
 **📝 NOTE:**
 - Private Bot PM Not available if you're not Join the Main Plan (Join VIP Group)
-- The Expired Plan (Include Bot PM) date follows when You Join/Renew
+- The Expired Plan (Include Bot PM Plan) date follows when You Join/Renew
 - VIP doesn't mean there are no limits!
 
 **💳 Payment:**
@@ -53,7 +53,7 @@ comments: false
 **⚡ Facility:**
 - Mirror & Leech
 - Rclone (Not enabled by default)
-- Telegram Premium, 4GB leech(If available)
+- Telegram Premium, 4GB leech (If available)
 - debrid-link.com supported
 - Custom Thumbnail & Custom Watermark on file
 - Bypass Feature
