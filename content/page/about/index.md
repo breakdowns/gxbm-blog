@@ -41,7 +41,7 @@ comments: false
 
 **📝 NOTE:**
 - Private Bot PM tidak tersedia jika Anda tidak bergabung dengan Paket Utama (Join VIP Group)
-- Tanggal Kedaluwarsa Plan (Termasuk Bot PM) mengikuti saat Anda Join/Renew
+- Tanggal Kedaluwarsa Plan (Termasuk Plan Bot PM) mengikuti saat Anda Join/Renew
 - VIP bukan berarti tidak ada limit!
 
 **💳 Pembayaran:**
