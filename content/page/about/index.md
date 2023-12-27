@@ -63,4 +63,4 @@ comments: false
 - Tersedia Google Drive Link, Sertakan Gmail saat kirim screenshot Pembayaran untuk gabung ke Team Drive
 - Dan masih banyak lagi!
 
-**✉️ Hubungi Admin dibawah setelah melakukan pembayaran. Jika Admin yang Anda hubungi sedang offline atau tidak merespon dalam waktu yang lama, Silahkan hubungi Admin lain!**
+**✉️ Hubungi Admin dibawah setelah melakukan pembayaran. Jika Admin yang anda hubungi tidak merespon dalam waktu yang lama, Silahkan hubungi Admin lain!**
