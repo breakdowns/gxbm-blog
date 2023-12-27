@@ -64,4 +64,4 @@ comments: false
 - Google Drive Link is available, include Gmail when sending screenshot Payment to join Team Drive
 - And many more!
 
-**✉️ Contact the Admin below after making Payment. If the Admin you contact is offline or not responding for a long time, Please contact another Admin!**
+**✉️ Contact the Admin below after making Payment. If the Admin you contact does not respond for a long time, please contact another Admin!**
