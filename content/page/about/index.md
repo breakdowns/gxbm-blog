@@ -32,7 +32,7 @@ links:
 comments: false
 ---
 
-## 👑 Gabung GxBM Mirrors
+## 👑 Gabung GxBM Mirror VIP
 ⚠️ **HARAP BACA HINGGA SELESAI!**
 
 **📊 Update daftar Harga untuk 1 bulan (8 September 2023):**
