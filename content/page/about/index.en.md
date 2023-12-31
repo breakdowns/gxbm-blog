@@ -32,7 +32,7 @@ links:
 comments: false
 ---
 
-## 👑 Join GxBM Mirrors
+## 👑 Join GxBM Mirror VIP
 ⚠️ **PLEASE READ UNTIL END!**
 
 **📊 Update price list for 1 month (8 September 2023):**
