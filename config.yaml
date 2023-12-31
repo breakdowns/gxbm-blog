@@ -1,4 +1,4 @@
-title: GxBM Mirrors
+title: GxBM Mirror VIP
 copyright: Breakdowns
 DefaultContentLanguage: id
 languageCode: id
@@ -7,12 +7,12 @@ languages:
         languageName: English
         weight: 2
         params:
-            description: The documentation of GxBM Mirrors.
+            description: The documentation of GxBM Mirror VIP.
     id:
         languageName: Bahasa Indonesia
         weight: 1
         params:
-            description: Dokumentasi GxBM Mirrors.
+            description: Dokumentasi GxBM Mirror VIP.
 
 disqusShortname: gxbm
 hasCJKLanguage: false
@@ -59,7 +59,7 @@ params:
 
     sidebar:
         emoji: 👑
-        subtitle: The documentation of GxBM Mirrors.
+        subtitle: The documentation of GxBM Mirror VIP.
         avatar:
             enabled: true
             local: true
