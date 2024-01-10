@@ -23,7 +23,7 @@ links:
   - title: Fajar
     description: Admin GxBM
     website: https://t.me/jar7447
-    image: 
+    image: https://cdn5.cdn-telegram.org/file/uVUPovJytVvzZJaGnSOEAYfHrMbr_tmVQUoITqbB9rKvBJxbxHWJirwnZhEoug3MD4NsAqCTqB-Gnzbc709jz1zy6V97m7SPzRfdtjQ9ZRhCrOAfMDXwH0zURoRmFHDw942EvfMlX-kTFQhTiDm9LRGDRjjRbkOqJTBDuy7URJ6Y-DJ_8GcB9sRV0t5l4UPs3m7ojCzxXwR36lL36910FZC-mDliBup_nRPRZVV9c-ifSg9yXJThyFZbedcWEZ4Xer0Z-7Pktfa0GMkkw2foMt7C6Z0xs9fUtJKsovyj1fro_DtVH-cQu2R3sST3OITVeBa0AK6q9wm76y-dIE_KKg.jpg
   - title: Hafitz
     description: Admin GxBM
     website: https://t.me/hafitzXD
