@@ -47,6 +47,9 @@ comments: false
 **💳 Pembayaran:**
 - [QRIS](qris.png)
 - `104716424665` (Bank Jago)
+
+**🔗 Link:**
+- [Update Channel](https://t.me/gxbmarsupdate)
 - [Bukti Pembayaran](https://t.me/GxBMarsPayment)
 
 **⚡ Fasilitas:**
