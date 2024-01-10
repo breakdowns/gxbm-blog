@@ -10,11 +10,11 @@ tags = [
     "Mirror Bot"
 ]
 image = "banner.jpg"
-links = [
+links =
     title = Hafitz
     description = https://t.me/hafitzXD
     website = https://t.me/hafitzXD
-    image = https://cdn5.cdn-telegram.org/file/ZnFQMU93XdfSznxayZI5DKtPfrJYiBMZeUd1cJjbKjvyyjKZ43b3bt9UcHQZW_ELKJIwxYVxiZl5XoSx8TIXL3OuJMViHKNVfKsbQIjwnHGy60RAnMu6hAMyXgg6BtPU63TjHM18D9rpA-wI-IVqK0QKb-yDzzClbksVKgH5PI2FGLlLpux_30dI9rXnss_oD3u2HaSgTddOx2D2DkeseNUduxTV3M3KCYui3JsfFVeyr4XE0udDPklMmI0ZqLulU-V1bCv7kfiNM-V3cfBJLGC6ocnUhiuO3dpdGSEVVMMfskjJylsJX_5ecX4Sx3BbLdiaRXpQe5QRmOsBRTLIkQ.jpg]
+    image = https://cdn5.cdn-telegram.org/file/ZnFQMU93XdfSznxayZI5DKtPfrJYiBMZeUd1cJjbKjvyyjKZ43b3bt9UcHQZW_ELKJIwxYVxiZl5XoSx8TIXL3OuJMViHKNVfKsbQIjwnHGy60RAnMu6hAMyXgg6BtPU63TjHM18D9rpA-wI-IVqK0QKb-yDzzClbksVKgH5PI2FGLlLpux_30dI9rXnss_oD3u2HaSgTddOx2D2DkeseNUduxTV3M3KCYui3JsfFVeyr4XE0udDPklMmI0ZqLulU-V1bCv7kfiNM-V3cfBJLGC6ocnUhiuO3dpdGSEVVMMfskjJylsJX_5ecX4Sx3BbLdiaRXpQe5QRmOsBRTLIkQ.jpg
 +++
 
 ## Mengestrak dan Pengarsipan
