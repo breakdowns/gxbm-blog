@@ -25,7 +25,7 @@ links:
     website: https://t.me/jar7447
     image: https://cdn5.cdn-telegram.org/file/uVUPovJytVvzZJaGnSOEAYfHrMbr_tmVQUoITqbB9rKvBJxbxHWJirwnZhEoug3MD4NsAqCTqB-Gnzbc709jz1zy6V97m7SPzRfdtjQ9ZRhCrOAfMDXwH0zURoRmFHDw942EvfMlX-kTFQhTiDm9LRGDRjjRbkOqJTBDuy7URJ6Y-DJ_8GcB9sRV0t5l4UPs3m7ojCzxXwR36lL36910FZC-mDliBup_nRPRZVV9c-ifSg9yXJThyFZbedcWEZ4Xer0Z-7Pktfa0GMkkw2foMt7C6Z0xs9fUtJKsovyj1fro_DtVH-cQu2R3sST3OITVeBa0AK6q9wm76y-dIE_KKg.jpg
   - title: Hafitz
-    description: Admin GxBM
+    description: hafitzXD.t.me
     website: https://t.me/hafitzXD
     image: https://cdn5.cdn-telegram.org/file/ZnFQMU93XdfSznxayZI5DKtPfrJYiBMZeUd1cJjbKjvyyjKZ43b3bt9UcHQZW_ELKJIwxYVxiZl5XoSx8TIXL3OuJMViHKNVfKsbQIjwnHGy60RAnMu6hAMyXgg6BtPU63TjHM18D9rpA-wI-IVqK0QKb-yDzzClbksVKgH5PI2FGLlLpux_30dI9rXnss_oD3u2HaSgTddOx2D2DkeseNUduxTV3M3KCYui3JsfFVeyr4XE0udDPklMmI0ZqLulU-V1bCv7kfiNM-V3cfBJLGC6ocnUhiuO3dpdGSEVVMMfskjJylsJX_5ecX4Sx3BbLdiaRXpQe5QRmOsBRTLIkQ.jpg
 
