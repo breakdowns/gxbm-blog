@@ -48,6 +48,9 @@ comments: false
 - [QRIS](qris.png)
 - `104716424665` (Bank Jago)
 - [PayPal](https://paypal.me/jar7447)
+
+**🔗 Link:**
+- [Update Channel](https://t.me/gxbmarsupdate)
 - [Proof of Payment](https://t.me/GxBMarsPayment)
 
 **⚡ Facility:**
