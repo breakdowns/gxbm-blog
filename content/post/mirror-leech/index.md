@@ -10,12 +10,15 @@ tags = [
     "Mirror Bot"
 ]
 image = "banner.jpg"
-links =
-    title = Hafitz
-    description = https://t.me/hafitzXD
-    website = https://t.me/hafitzXD
-    image = https://cdn5.cdn-telegram.org/file/ZnFQMU93XdfSznxayZI5DKtPfrJYiBMZeUd1cJjbKjvyyjKZ43b3bt9UcHQZW_ELKJIwxYVxiZl5XoSx8TIXL3OuJMViHKNVfKsbQIjwnHGy60RAnMu6hAMyXgg6BtPU63TjHM18D9rpA-wI-IVqK0QKb-yDzzClbksVKgH5PI2FGLlLpux_30dI9rXnss_oD3u2HaSgTddOx2D2DkeseNUduxTV3M3KCYui3JsfFVeyr4XE0udDPklMmI0ZqLulU-V1bCv7kfiNM-V3cfBJLGC6ocnUhiuO3dpdGSEVVMMfskjJylsJX_5ecX4Sx3BbLdiaRXpQe5QRmOsBRTLIkQ.jpg
 +++
+
+---
+links:
+  - title: Aziz
+    description: https://t.me/nousernametag
+    website: https://t.me/nousernametag
+    image: https://cdn5.cdn-telegram.org/file/KsyyL_J4GgbzbOqAbKrPFxwhp-eGREkD7lH8MdzcueHnFkyEX-sR0bdWbEPQx599W3b09AEDWIxDFHB41pJObFpMtVC4gleEXHhnz6zbV1TRtr8p2gRbkQVoMWNZYyy6syUMc3IvbQ74TEXioWWV2Aq8a1RQM00u36M4mO6mZ3tAcTdjfXoDsWtpuSsO_M8CpnUDVHf1uH909fjmqOjVZRjpE1ky0WQSP7Zxwq0EEPvsYN2hl2SmWR4Zkw5eDVOZ7rJ8-S3xlFoOASnd7FB9r6TJ2i36R1-pfKMoKmMh7aBZxRa-ThT--QXwUwKWz6xogfcQY9KTTRnWsVXZOVCcYg.jpg
+---
 
 ## Mengestrak dan Pengarsipan
 Untuk Mengestrak atau Mengarsipkan, Anda hanya perlu mengirim perintah Mirror atau Leech, Lalu akan muncul beberapa opsi seperti gambar di bawah.
