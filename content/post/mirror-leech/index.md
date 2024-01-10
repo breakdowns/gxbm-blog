@@ -13,22 +13,6 @@ image = "banner.jpg"
 +++
 
 ---
-title: Gabung GxBM
-description: GxBM adalah layanan Grup Telegram Mirror/Leech VIP yang berdiri sejak 2022
-date: '2023-10-13'
-image: banner.jpg
-aliases:
-  - about-us
-  - join-us
-  - contact
-license: Licensed under CC BY-NC-SA 4.0
-lastmod: '2023-12-12'
-menu:
-    main: 
-        weight: -90
-        params:
-            icon: user-plus
-
 links:
   - title: Aziz
     description: https://t.me/nousernametag
