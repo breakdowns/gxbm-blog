@@ -17,9 +17,9 @@ Anda harus mendownload dan menginstall Aplikasi [Termux](https://github.com/term
 
 ## Generate file `rclone.conf`
 **NOTE:** Setiap Cloud mungkin sedikit berbeda cara generatenya, Jadi silahkan ikuti instruksinya.
-- Jalankan perintah `rclone config` untuk membuka menu lalu ketik `n` dan silahkan masukkan nama untuk Remote Baru.
+- Jalankan perintah `rclone config` untuk membuka menu lalu ketik `n` dan silahkan masukkan nama untuk Remote Baru. **NOTE:** Jangan tambahkan Spasi saat menambahkan nama untuk Remote.
 ![Preview](rclone-config.jpg)
-- Pilih Cloud dengan memasukkan nomor. **NOTE:** di sini Saya memilih Mega dengan nomor 31.
+- Pilih Cloud dengan memasukkan nomor. **NOTE:** Di sini Saya memilih Mega dengan nomor 31.
 ![Preview](choose-rclone-cloud.jpg)
 - Masukkan Email Mega Anda, Lalu ketik `y` dan masukkan Password Mega Anda.
 ![Preview](credential-account.jpg)
