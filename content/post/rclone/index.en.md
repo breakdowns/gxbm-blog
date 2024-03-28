@@ -45,3 +45,8 @@ You must download and install [Termux](https://github.com/termux/termux-app/rele
 ![Preview](choose-path.jpg)
 - Done! My files are uploaded to Mega.
 ![Preview](done.jpg)
+
+## Deleting/Replacing Cloud Accounts
+Run command `rclone config` to open menu then type `d` and enter your cloud number.
+![Preview](change-cloud-account.jpg)
+After that, please follow the method above if you want to change or re-add your cloud account.
