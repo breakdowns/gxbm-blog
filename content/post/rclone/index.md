@@ -45,3 +45,8 @@ Anda harus mendownload dan menginstall Aplikasi [Termux](https://github.com/term
 ![Preview](choose-path.jpg)
 - Done! File Saya terupload ke Mega.
 ![Preview](done.jpg)
+
+## Menghapus/Mengganti Akun Cloud
+Jalankan perintah `rclone config` untuk membuka menu lalu ketik `d` dan masukkan nomor cloud Anda.
+![Preview](change-cloud-account.jpg)
+Setelah itu silahkan ikuti cara di atas jika Anda ingin mengganti atau menambahkan ulang akun cloud Anda.
