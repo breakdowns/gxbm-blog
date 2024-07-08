@@ -35,8 +35,8 @@ comments: false
 ⚠️ **PLEASE READ UNTIL END!**
 
 **📊 Update price list for 1 month (8 September 2023):**
-- **Join VIP Group:** IDR 20.000 / $2 USD
-- **Private Bot PM:** IDR 10.000 / $1 USD
+- **Join VIP Group:** $2 USD
+- **Private Bot PM:** $1 USD
 
 **📝 NOTE:**
 - Private Bot PM Not available if you're not Join the Main Plan (Join VIP Group)
@@ -55,7 +55,7 @@ comments: false
 **⚡ Facility:**
 - Mirror & Leech
 - Rclone (Not enabled by default)
-- Telegram Premium, 4GB leech (If available)
+- Custom Upload (Gofile, Pixeldrian, Streamtape)
 - debrid-link.com supported
 - Custom Thumbnail & Custom Watermark on file
 - Bypass Feature
