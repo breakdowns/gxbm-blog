@@ -55,7 +55,7 @@ comments: false
 **⚡ Fasilitas:**
 - Mirror & Leech
 - Rclone (Tidak aktif secara default)
-- Telegram Premium, 4GB leech (Jika tersedia)
+- Custom Upload (Gofile, Pixeldrian, Streamtape)
 - Mendukung debrid-link.com
 - Kustom Thumbnail & Kustom Watermark pada file
 - Fitur Bypass
