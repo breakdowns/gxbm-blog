@@ -21,8 +21,8 @@ links:
     website: https://t.me/nousernametag
     image: https://avatars.githubusercontent.com/gudmeong
   - title: Fajar
-    description: https://t.me/jar7447
-    website: https://t.me/jar7447
+    description: https://t.me/menousernametags
+    website: https://t.me/menousernametags
     image: https://avatars.githubusercontent.com/FajarXE
   - title: Hafitz
     description: https://t.me/hafitzXD
