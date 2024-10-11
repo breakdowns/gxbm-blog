@@ -13,7 +13,7 @@ image = "banner.jpg"
 +++
 
 ## Installing Rclone
-You must download and install [Termux](https://github.com/termux/termux-app/releases) App. After that run command `pkg install rclone` to install Rclone.
+You must download and install [Termux](https://github.com/termux/termux-app/releases) App. After that run command `termux-setup-storage` and `pkg install rclone` to install Rclone.
 
 ## Generate `rclone.conf` file
 **NOTE:** Each Cloud may have a slightly different way of generating it, So please follow the instructions.
