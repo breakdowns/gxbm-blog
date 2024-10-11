@@ -7,12 +7,14 @@ languages:
         languageName: English
         weight: 2
         params:
-            description: The documentation of GxBM Mirror VIP.
+            sidebar:
+                subtitle: The documentation of GxBM Mirror VIP.
     id:
         languageName: Bahasa Indonesia
         weight: 1
         params:
-            description: Dokumentasi GxBM Mirror VIP.
+            sidebar:
+                subtitle: Dokumentasi GxBM Mirror VIP.
 
 disqusShortname: gxbm
 hasCJKLanguage: false
